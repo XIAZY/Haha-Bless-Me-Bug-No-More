@@ -4,7 +4,7 @@
 ```
 import haha
 ```
-and mysterious oriental power will keep you code away from bugs.
+and mysterious oriental power will keep your code away from bugs.
 
 # Or...
 
