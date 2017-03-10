@@ -1,12 +1,6 @@
 # Haha-Bless-Me-Bug-No-More
 蛤蛤保佑，永无 BUG
 # Usage
-```
-import haha
-```
-and mysterious oriental power will keep your code away from bugs.
-
-# Or...
 
 Just copy the following to your code:
 ```
