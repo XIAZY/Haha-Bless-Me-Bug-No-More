@@ -51,5 +51,5 @@ Just copy the following to your code:
 # ################### ####  ##############
 # ######################### ##############
 #
-# PREY TO THE TOAD, THE BUGS ARE NO MORE
+# PRAY TO THE TOAD, THE BUGS ARE NO MORE
 ```
