@@ -45,5 +45,5 @@ Just copy the following to your code:
 # ################### ####  ##############
 # ######################### ##############
 #
-# PRAY TO THE TOAD, THE BUGS ARE NO MORE
+# 蛤蛤保佑 永无 BUG
 ```
